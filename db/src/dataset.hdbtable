@@ -1,0 +1,18 @@
+column table "BOSTON_HOUSING_PRICES" (
+   "CRIM" DECIMAL(12,5),
+   "ZN" DECIMAL(7,3),
+   "INDUS" DECIMAL(7,2),
+   "CHAS" SMALLINT,
+   "NOX" DECIMAL(10,4),
+   "RM" DECIMAL(8,3),
+   "AGE" DECIMAL(7,3),
+   "DIS" DECIMAL(11,4),
+   "RAD" TINYINT,
+   "TAX" SMALLINT,
+   "PTRATIO" DECIMAL(6,2),
+   "BLACK" DECIMAL(9,3),
+   "LSTAT" DECIMAL(7,2),
+   "MEDV" DECIMAL(6,2),
+   "ID" INTEGER
+)
+COMMENT 'boston house pricing data'
