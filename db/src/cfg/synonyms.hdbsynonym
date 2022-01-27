@@ -4,5 +4,11 @@
       "object": "PAL_PARTITION",
       "schema": "_SYS_AFL"
     }
+  },
+  "pal::pal_unified_regression": {
+    "target": {
+      "object": "PAL_UNIFIED_REGRESSION",
+      "schema": "_SYS_AFL"
+    }
   }
 }
