@@ -1,0 +1,6 @@
+jupyterlab
+cfenv
+hdbcli
+hana-ml
+numpy
+pandas

@@ -1,0 +1,8 @@
+{
+  "train_test_val_split": {
+    "target": {
+      "object": "PAL_PARTITION",
+      "schema": "_SYS_AFL"
+    }
+  }
+}
